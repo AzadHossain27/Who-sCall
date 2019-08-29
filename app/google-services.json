@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "14127818316",
+    "firebase_url": "https://whoscall3-faa7b.firebaseio.com",
+    "project_id": "whoscall3-faa7b",
+    "storage_bucket": "whoscall3-faa7b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14127818316:android:7b78e7b142dc3d1c",
+        "android_client_info": {
+          "package_name": "com.g.whoscall3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "14127818316-udj1kvs9mrp05ho4othdn14uupastq4i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.g.whoscall3",
+            "certificate_hash": "c3abedb2bbb85b8891e139423b02712e57f5286f"
+          }
+        },
+        {
+          "client_id": "14127818316-lj45a2hdh6kk606ocr4la7iehalgufdm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLTsC0j6-BLr3TocQIW8-wI0bAO4BFf-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "14127818316-lj45a2hdh6kk606ocr4la7iehalgufdm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
